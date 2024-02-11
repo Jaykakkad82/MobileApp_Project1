@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project1_Jaykumar_Kakkad</string>
+    <string name="welcome_mssg">Welcome!</string>
+    <string name="button1">Dial</string>
+    <string name="button2">Message</string>
+    <string name="phone_number"> </string>
+    <string name="hint_message"> (312) 323-7612</string>
+
+</resources>
